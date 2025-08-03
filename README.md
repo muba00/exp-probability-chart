@@ -2,6 +2,10 @@
 
 A dynamic Next.js application that demonstrates the Law of Large Numbers through a live coin flip simulation. Watch as the ratio of heads approaches the theoretical probability of 0.5 over time.
 
+## Screenshot
+
+![Live Coin Flip Simulation](screenshot.png)
+
 ## Features
 
 - Real-time coin flip simulation
